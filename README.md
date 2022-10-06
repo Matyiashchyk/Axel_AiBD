@@ -1,2 +1,2 @@
 # Axel_AiBD
-File has been crated within subject "Analiza i Bazy Danych"
+File has been created within subject "Analiza i Bazy Danych"
