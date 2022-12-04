@@ -1,0 +1,6 @@
+# Plik billboard.csv zawiera ranking składający się z 318 tworów 2000 roku.
+ ranking odzwiercedla pozycji poszczególnych tworów w ciągu 76 tygodni, więc mamy tabelę 318 na 82, co jest nie czytenlnie przez terminal i po otwieraniu pliku csv. 
+  Uwzględniąc ten problem, przez twórców był zrobiony program który wyszukuje twóry według nazwy artystów i tworów, i również posiada możliwość wyświetlania wszystkich tworów w pojedynczym tygodniu dla ulatwienia korzystania z tej tablicy. 
+  # Plik nowu.csw 
+  Zawiera wyniki wyszukiwania z billboard.csv
+   
